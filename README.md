@@ -1,7 +1,8 @@
-<<<<<<< HEAD
-# New-2048-Version-2
-A version more stable, clener and faster of previous one (New 2048) 
-=======
-# New-2048
-A Unity Game for the popular 2048 puzzle game 
->>>>>>> 8a329ff08bc53d5a1b6224e539b39f26c7bf7b96
+# 🎮 Mukbang 2048 (Base Version)
+
+Questa è la base di partenza e il **template corretto per il level select** della nuova versione **Mukbang 2048**. 
+
+Una versione del popolare puzzle game 2048 per Unity, pensata per essere più stabile, pulita e veloce rispetto alla precedente.
+
+## 📦 Requisiti di Configurazione
+Per far funzionare correttamente il progetto, è necessario importare manualmente l'**SDK di Firebase** all'interno della cartella degli Assets prima di procedere con la build o l'esecuzione.
